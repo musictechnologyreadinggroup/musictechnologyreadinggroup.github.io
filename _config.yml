@@ -23,10 +23,10 @@ repository               : "musictechnologyreadinggroup/musictechnologyreadinggr
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mtrglogo.png"
   name             : "Music Technology Reading Group"
   pronouns         : # example: "she/her"  
-  bio              : "The Music Technology Reading Group (MTRG) is a freely organised network of musicologist, philosophers, computer scientists, engineers, and computer music researchers interested in music and technology."
+  bio              : "The Music Technology Reading Group (MTRG) is a freely organised network of musicologist, philosophers, and computer music researchers interested in music and technology."
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL

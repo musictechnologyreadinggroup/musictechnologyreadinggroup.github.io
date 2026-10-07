@@ -1,0 +1,19 @@
+{
+	"name": "Music Technology Reading Group",
+	"short_name": "Music Technology Reading Group",
+	"description": "",
+	"start_url": "/",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}

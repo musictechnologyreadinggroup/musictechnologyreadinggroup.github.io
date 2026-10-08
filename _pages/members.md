@@ -18,7 +18,7 @@ PhD in Music, History, Society, EHESS & STMS/Ircam, Paris, France.
 **Bob L. T. Sturm:** Associate professor at KTH Royal Institute of Technology, Stockholm, Sweden. <br>
 PhD in Electrical and Computer Engineering, University of California Santa Barbara, USA.
 
-**David Dalmazzo:** Postdoctoral researcher in Computer Music  at MTG, UPF, Barcelona, Spain.
+**David Dalmazzo:** Postdoctoral researcher in Computer Music at MTG, UPF, Barcelona, Spain.
 
 **Elin Kanhov:** Researcher at KTH Royal Institute of Technology, Stockholm, Sweden. <br>
 PhD in Musicology, Stockholm University, Sweden.
@@ -39,7 +39,7 @@ PhD in Computer Music, University of Lille, France.
 **Veronika Muchitsch:** Researcher at Uppsala University, Sweden. <br>
 PhD in Musicology, Uppsala University, Sweden.
 
-**Yerim Gim:** PhD student in Musicology at Seoul National Univeristy, South Korea. 
+**Yerim Gim:** PhD student in Musicology at Seoul National University, South Korea. 
 
 **Yiren Zhao:** Postdoctoral researcher at KTH Royal Institute of Technology, Stockholm, Sweden. <br>
 PhD in Musicology, Örebro University, Sweden.

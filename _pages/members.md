@@ -7,7 +7,8 @@ author_profile: true
 Active members of MTRG:
 ------
 
-**Anders Reuter:** Senior lecturer in Musicology at Lund University, Sweden.
+**Anders Reuter:** Senior lecturer in Musicology at Lund University, Sweden. <br>
+PhD in Musicology, University of Copenhagen, Denmark.
 
 **Anna-Kaisa Kaila:** Postdoctoral researcher at MIT, USA. <br>
 PhD in Media Technology, KTH Royal Institute of Technology, Stockholm, Sweden.
@@ -18,7 +19,8 @@ PhD in Music, History, Society, EHESS & STMS/Ircam, Paris, France.
 **Bob L. T. Sturm:** Associate professor at KTH Royal Institute of Technology, Stockholm, Sweden. <br>
 PhD in Electrical and Computer Engineering, University of California Santa Barbara, USA.
 
-**David Dalmazzo:** Postdoctoral researcher in Computer Music at MTG, UPF, Barcelona, Spain.
+**David Dalmazzo:** Postdoctoral researcher in Computer Music at MTG, UPF, Barcelona, Spain. <br>
+PhD in Computer Music, UPF, Barcelona, Spain.
 
 **Elin Kanhov:** Researcher at KTH Royal Institute of Technology, Stockholm, Sweden. <br>
 PhD in Musicology, Stockholm University, Sweden.

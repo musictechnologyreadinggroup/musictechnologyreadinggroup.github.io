@@ -31,7 +31,7 @@ PhD in Computer Music, Inria Nancy & Ircam Paris, France.
 **Luca Casini:** Researcher at RISE Research Institutes of Sweden, Stockholm, Sweden. <br>
 PhD in Data Science and Computation, University of Bologna, Italy.
 
-**Ricardo Anconna:** PhD student in Musicology at University of Bologna, Italy.
+**Riccardo Anconna:** PhD student in Musicology at University of Bologna, Italy.
 
 **Vanessa Nina Borsan:** Researcher at University of Ljubljana, Slovenia. <br>
 PhD in Computer Music, University of Lille, France.

@@ -5,6 +5,16 @@ author_profile: true
 
 ---
 
+Reading #20, 30 October 2026, 13-15:00 CEST
+------
+
+**Text:** Oh, Hee Sook (2024). [Is AI Music Beautiful? A Study of the AI Composition Model EVOM](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/EDKJ3CBQ/collection). *International Review of the Aesthetics and Sociology of Music* 55, no. 1: 139–58.
+
+**Host:** Elin <br>
+**Reader:** Yerim
+
+
+
 Reading #19, 5 June 2026, 13-15:00 CEST
 ------
 

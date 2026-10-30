@@ -48,7 +48,7 @@ Reading #17, 27 February 2026, 13-14h30 CET
 Reading #16, 23 January 2026, 13-15h CET
 ------
 
-**Text:** Di Scipio, A. (1995). "[Centrality of techné for an aesthetic approach on electroacoustic music](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/EY6Q58F9/collection)." *Journal of New Music Research* 24, no. 4: 369-383.
+**Text:** Di Scipio, A. (1995). [Centrality of techné for an aesthetic approach on electroacoustic music](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/EY6Q58F9/collection). *Journal of New Music Research* 24, no. 4: 369-383.
 
 **Host:** Elin <br>
 **Reader:** Vanessa Nina
@@ -57,7 +57,7 @@ Reading #16, 23 January 2026, 13-15h CET
 
 Reading #15: December 11th, 2025, 13:00-15:00h
 ------
-**Text:** Frith, S. (1986). "[Art versus technology: The strange case of popular music](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/RGM4V4I6/collection)." *Media, Culture & Society* 8, no. 3: 263-279.
+**Text:** Frith, S. (1986). [Art versus technology: The strange case of popular music](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/RGM4V4I6/collection). *Media, Culture & Society* 8, no. 3: 263-279.
 
 **Host:** Elin <br>
 **Reader:** Bob
@@ -77,7 +77,7 @@ Reading #14: November 14th, 2025, 13:00-15:00h
 Reading #13: October 3rd, 2025, 13:00-14:30h CET
 ---
 
-**Text:** Morreale, F. et al. (2025). "[Reductive, Exclusionary, Normalising: The Limits of Generative AI Music](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/9IC2MCP9/collection)." *TISMIR*, 8:1.
+**Text:** Morreale, F. et al. (2025). [Reductive, Exclusionary, Normalising: The Limits of Generative AI Music](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/9IC2MCP9/collection). *TISMIR*, 8:1.
 
 **Host:** Anna <br>
 **Reader:** Luca
@@ -87,7 +87,7 @@ Reading #13: October 3rd, 2025, 13:00-14:30h CET
 Reading #12: September 5, 2025, 13:00-14:30h CET
 ------
 
-**Text:** Caramiaux, B., et al. (2025). "[Generative AI and creative work: Narratives, values, and impacts]https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/EGH5KZMT/collection)." *arXiv preprint* arXiv:2502.03940.
+**Text:** Caramiaux, B., et al. (2025). [Generative AI and creative work: Narratives, values, and impacts](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/EGH5KZMT/collection). *arXiv preprint* arXiv:2502.03940.
 
 **Host:** Vanessa Nina <br>
 **Reader:** Anna 
@@ -98,7 +98,7 @@ Reading #12: September 5, 2025, 13:00-14:30h CET
 Reading #11: June 10, 2025, 10:00-12:00h CET
 ------
 
-**Text:** Krašovec, P. (2024). "[A Critique of Anthropocentrism in the Evaluation(s) of Artificial Creativity](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/5HQLVB6Q/collection)." *Medijska istraživanja: znanstveno-stručni časopis za novinarstvo i medije* 30, no. 2: 31-50.
+**Text:** Krašovec, P. (2024). [A Critique of Anthropocentrism in the Evaluation(s) of Artificial Creativity](https://www.zotero.org/groups/6694789/music_technology_reading_group/collections/FX49S3RU/items/5HQLVB6Q/collection). *Medijska istraživanja: znanstveno-stručni časopis za novinarstvo i medije* 30, no. 2: 31-50.
 
 **Host:** Yiren <br>
 **Reader:** Vanessa Nina
